@@ -1,2 +1,4 @@
-# Estruturas_de_dados_em_C
+# Estruturas de dados
+<br>
+Nesse repositório há diversos conceitos, tais como, deques, árvores, listas ligadas e circulares.
  
